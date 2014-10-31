@@ -2,10 +2,10 @@ This web project use baidu map api to provide a http service,that can analyse th
 
 ##How to use?
 
-* run the project and view page 'localhost:8080/address-analyse'
+* run the project and view page `localhost:8080/address-analyse`
 * input you address and submit,the you got the deliver site,(any support Shanghai)
 
 ##How to config address?
 
-* modify 'address.json' , add line of you site data.
-* 'points' value is the polygon points of you site on baidu map.
+* modify `address.json` , add line of you site data.
+* `points` value is the polygon points of you site on baidu map.
